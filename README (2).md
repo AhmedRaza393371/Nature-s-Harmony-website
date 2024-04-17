@@ -39,6 +39,10 @@ Tips and strategies for individuals and organizations to achieve sustainability.
 5. **Contact Us:**
    
     Leave any query or give some suggestions to us.
+5. **Wildlife Photography:**
+   
+    A showcase of stunning wildlife photography capturing the beauty and diversity of nature.
+
 
    
 
