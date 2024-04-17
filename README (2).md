@@ -1,7 +1,3 @@
-Certainly! Here's a README template for your "Welcome to Nature's Harmony" website:
-
----
-
 # Welcome to Nature's Harmony Website
 
 ![pic2](https://github.com/AhmedRaza393371/Nature-s-Harmony-website/assets/145160224/c105c923-0e2c-4b86-8000-02de75952548)
